@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Rodrigue
+=======
+Rachid
+>>>>>>> a5506fba6e59f4a1e308f8cd3774e44ad4d98695
