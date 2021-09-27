@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Rachid
+=======
+akram,yann
+
+>>>>>>> 4fcd90805ffb8a2ce83633fe48a306dbe65f7c97
