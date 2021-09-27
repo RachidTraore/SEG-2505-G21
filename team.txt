@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-
 akram
 Rachid
 yann
 Rodrigue
-=======
-yann
-akram
-rodrigue
-rachid
->>>>>>> 7980d6d519872b371f78216c627724a9c0bb746f
